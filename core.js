@@ -1,5 +1,5 @@
 function hash(arg) {
-    const input = (byteArr = new TextEncoder().encode('horse'+arg)).toString().split(',')
+    const input = (byteArr = new TextEncoder().encode('nox'+arg)).toString().split(',')
 
     var outcompiled = 0
 
